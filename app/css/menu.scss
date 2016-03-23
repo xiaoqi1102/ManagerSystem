@@ -1,0 +1,14 @@
+.leftMenu{
+   list-style: none;
+ }
+
+.leftMenu li a {
+  display: block;
+  line-height:300%;
+  border: 1px solid #e5e5e5;
+  text-align: center;
+  .active{
+    color:#fff;
+    background-color:#337ab7
+  }
+}
